@@ -1,0 +1,6 @@
+require('../src/App.vue')
+require('../src/components/HelloWorld.vue')
+require('jquery')
+require('bluebird')
+require('d3')
+require('element-ui')
